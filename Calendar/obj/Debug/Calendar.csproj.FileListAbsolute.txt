@@ -1,0 +1,12 @@
+D:\Projects\Data\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\Projects\Data\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\Projects\Data\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.csprojAssemblyReference.cache
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.pdb
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.DailyPlan.resources
+D:\Projects\Data\Calendar\Calendar\obj\Debug\Calendar.JobControl.resources
